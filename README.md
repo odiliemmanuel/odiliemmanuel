@@ -16,3 +16,37 @@ Hi 👋, I'm Kaodilichi Emmanuel
 📫 You can contact me by emailing odiliejeh09@gmail.com
 
 
+
+🛠️ Tech Stack
+
+💻 Backend
+Java
+Spring Boot
+Python
+
+
+🌐 Frontend
+
+HTML
+CSS
+React (currently learning)
+
+
+🗄️ Database
+
+MongoDB
+MySQL
+
+📂 Projects
+
+
+🔐 Authentication System (Spring Boot)
+📦 Event-Driven Backend Applications
+📦 Real Estate System
+🌐 Fullstack Projects (React + Spring Boot - in progress)
+
+🌱 Currently Learning
+React (Frontend Framework)
+Full-Stack Architecture
+API Integration (Frontend ↔ Backend)
+

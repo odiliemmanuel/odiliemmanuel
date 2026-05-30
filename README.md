@@ -35,7 +35,6 @@
 | System Design | Scalable Applications |
 | Go + Gin | High-Performance APIs |
 | Cloud Concepts | Production Deployments |
-| AI Engineering | Intelligent Applications |
 
 </div>
 

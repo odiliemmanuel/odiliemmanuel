@@ -87,4 +87,6 @@ I enjoy building backend systems that look simple on the outside but are powerfu
 
 ## 🐍 My Contribution Graph
 
-![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+## 📈 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=odiliemmanuel&theme=tokyo-night)

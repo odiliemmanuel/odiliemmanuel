@@ -44,7 +44,7 @@
 [![Skills](https://skillicons.dev/icons?i=java,js,ts,go,python)](https://skillicons.dev)
 
 ### Backend
-[![Skills](https://skillicons.dev/icons?i=spring,nodejs,express,flask,fastapi,django)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=spring,nodejs,flask,fastapi,django)](https://skillicons.dev)
 
 ### Frontend
 [![Skills](https://skillicons.dev/icons?i=react,tailwind,html,css)](https://skillicons.dev)

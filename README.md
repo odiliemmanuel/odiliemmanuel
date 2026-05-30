@@ -1,3 +1,5 @@
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Emmanuel%20Ejeh&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+
 # Hi there 👋, I'm Emmanuel
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=650&lines=Backend+Engineer;Java+%7C+Go+%7C+Spring+Boot+Developer;Distributed+Systems+Learner;API+%26+Cloud+Focused;Clean+Code+%7C+Scalable+Systems)

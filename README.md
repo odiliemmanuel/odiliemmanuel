@@ -84,3 +84,7 @@
 
 ## ⚡ Fun Fact
 I enjoy building backend systems that look simple on the outside but are powerful, scalable, and production-ready under the hood.
+
+## 🐍 My Contribution Graph
+
+![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)

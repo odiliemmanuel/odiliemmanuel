@@ -1,43 +1,82 @@
-# Emmanuel Ejeh 👋
+# Hi there 👋, I'm Emmanuel
 
-## Java Backend Developer
-
-I am a Java Backend Developer focused on building scalable backend systems using Spring Boot.
+🚀 Full-Stack Developer | Backend Engineer | Java & Go Enthusiast  
+💡 I build scalable backend systems, APIs, and modern web applications  
+🌍 Based in Nigeria  
+🎯 Focused on backend engineering, system design, and cloud-ready applications  
 
 ---
 
-## 🚀 What I do
-- Build REST APIs using Spring Boot
-- Design and manage relational databases (PostgreSQL/MySQL)
-- Implement authentication systems (JWT, Spring Security)
-- Build backend systems for real-world applications
+## 🧠 About Me
+
+- 🔭 I’m currently working on full-stack and backend projects
+- 🌱 Learning distributed systems, Kafka, and cloud architecture
+- 👯 I’m open to collaborating on impactful open-source projects
+- ⚙️ I love building clean APIs and scalable backend systems
+- 📚 Always learning and improving my engineering skills
 
 ---
 
 ## 🛠️ Tech Stack
-- Java
-- Spring Boot
-- PostgreSQL
-- MySQL
-- JWT Authentication
-- REST APIs
-- Git & GitHub
+
+### Languages
+[![Skills](https://skillicons.dev/icons?i=java,js,ts,go,python)](https://skillicons.dev)
+
+### Backend
+[![Skills](https://skillicons.dev/icons?i=spring,nodejs,express,flask,fastapi,django)](https://skillicons.dev)
+
+### Frontend
+[![Skills](https://skillicons.dev/icons?i=react,tailwind,html,css)](https://skillicons.dev)
+
+### Databases
+[![Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)
+
+### Tools & Platforms
+[![Skills](https://skillicons.dev/icons?i=git,github,docker,maven,vercel)](https://skillicons.dev)
 
 ---
 
-## 📌 Featured Projects
-- Job Tracker API (Spring Boot + PostgreSQL)
-- Authentication System (JWT + Spring Security)
-- Student Management System (REST API + DB design)
+## ⚡ Additional Technologies
+
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
-## 🎯 Current Focus
-Building production-ready backend systems and improving system design skills.
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odiliemmanuel&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=odiliemmanuel&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Contact
-LinkedIn: https://www.linkedin.com/in/kaodilichi-ejeh-66064238a
+## 🔥 GitHub Streak
 
-GitHub: https://github.com/odiliemmanuel
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=odiliemmanuel&theme=tokyonight)
+
+---
+
+## 🚀 Featured Projects
+
+- 🔗 **Auction App** – Full-stack Spring Boot + React application  
+- 🔗 **Chat App** – Real-time messaging system using WebSockets  
+- 🔗 **Character Guessing Game** – Fun interactive frontend project  
+- 🔗 **API Systems** – Backend experiments with Go, Node.js, and Java  
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/odiliemmanuel
+- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- Email: your-email@example.com
+
+---
+
+## ⚡ Fun Fact
+I enjoy building backend systems that look simple on the outside but are powerful, scalable, and production-ready under the hood.

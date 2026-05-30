@@ -94,8 +94,8 @@
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/odiliemmanuel
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/kaodilichi-ejeh-66064238a
+- Email: kaodilichiejeh02@gmail.com
 
 ---
 

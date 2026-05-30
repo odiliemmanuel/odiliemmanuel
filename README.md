@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Emmanuel
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Full-Stack+Developer;Backend+Engineer+(Java+%7C+Go);Spring+Boot+%7C+Node.js+%7C+React;Building+Scalable+APIs+and+Systems;Always+Learning+New+Tech)
+
 🚀 Full-Stack Developer | Backend Engineer | Java & Go Enthusiast  
 💡 I build scalable backend systems, APIs, and modern web applications  
 🌍 Based in Nigeria  

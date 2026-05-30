@@ -85,7 +85,6 @@
 ## ⚡ Fun Fact
 I enjoy building backend systems that look simple on the outside but are powerful, scalable, and production-ready under the hood.
 
-## 🐍 My Contribution Graph
 
 ## 📈 Contribution Activity
 

@@ -21,6 +21,24 @@
 
 ---
 
+# 🌱 Currently Learning
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=Learning+Distributed+Systems;Exploring+Apache+Kafka;Improving+Go+Backend+Development;Studying+System+Design;Building+Production-Ready+Applications;Exploring+AI+Engineering" />
+</p>
+
+<div align="center">
+
+| 📚 Learning | 🎯 Goal |
+|------------|----------|
+| Apache Kafka | Event-Driven Architecture |
+| System Design | Scalable Applications |
+| Go + Gin | High-Performance APIs |
+| Cloud Concepts | Production Deployments |
+| AI Engineering | Intelligent Applications |
+
+</div>
+
 ## 🛠️ Tech Stack
 
 ### Languages

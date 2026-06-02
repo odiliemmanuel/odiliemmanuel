@@ -103,6 +103,4 @@
 I enjoy building backend systems that look simple on the outside but are powerful, scalable, and production-ready under the hood.
 
 
-## 📈 Contribution Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=odiliemmanuel&theme=tokyo-night)

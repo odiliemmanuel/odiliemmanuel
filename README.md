@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on full-stack and backend projects
 - 🌱 Learning distributed systems, Kafka, and cloud architecture
-- 👯 I’m open to collaborating on impactful open-source projects
+- 👯 I’m open to collaborating on impactful open-source projects and opprtunities
 - ⚙️ I love building clean APIs and scalable backend systems
 - 📚 Always learning and improving my engineering skills
 
@@ -36,6 +36,7 @@
 | System Design | Scalable Applications |
 | Go + Gin | High-Performance APIs |
 | Cloud Concepts | Production Deployments |
+| React + TypeScript | Web Development |
 
 </div>
 

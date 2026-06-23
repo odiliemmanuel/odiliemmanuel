@@ -74,11 +74,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odiliemmanuel&show_icons=true&theme=tokyonight)
 
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readms users from trying to break the system or bypass payment logic by attempting to add 0 or -5 items to their cart.e-streak-stats.herokuapp.com/?user=odiliemmanuel&theme=tokyonight)
 
 ---
 

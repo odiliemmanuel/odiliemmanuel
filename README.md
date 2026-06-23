@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Emmanuel
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=650&lines=Backend+Engineer;Java+%7C+Go+%7C+Spring+Boot+Developer;Distributed+Systems+Learner;API+%26+Cloud+Focused;Clean+Code+%7C+Scalable+Systems)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=650&lines=Backend+Engineer;Java+%7C+Go+%7C+Spring+Boot+Developer;Distributed+Systems+Learner;API+%26+Cloud+Focused;Clean+Code+%7C+Scalable+Systems;Fullstack+Web+Developer)
 
 🚀 Aspiring Backend Engineer | Full-Stack Developer | Java & Go Enthusiast  | React + JavaScript or TypeScript Frontend Web Development
 

@@ -57,7 +57,8 @@ I work across the full stack — from backend services and frontend interfaces t
 [![Skills](https://skillicons.dev/icons?i=react,flutter,tailwind,html,css)](https://skillicons.dev)
 
 ### Data Science & Analytics
-[![Skills](https://skillicons.dev/icons?i=python,pandas,mysql,postgres)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,mysql,postgres)](https://skillicons.dev)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 

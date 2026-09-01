@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Emmanuel (Odili)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=650&lines=Software+Engineer;Backend+%7C+Frontend+%7C+DevOps+%7C+Data+Science;Software+Engineering+Trainee+%40+Semicolon+Africa;Java+%7C+Spring+Boot+%7C+Go+%7C+Python;React+%2F+TypeScript+%2F+FastAPI+%2F+Node.js;Data+Analysis+%7C+Pandas+%7C+DuckDB)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=650&lines=Software+Engineer;Backend+%7C+Frontend+%7C+DevOps+%7C+Data+Science;Java+%7C+Spring+Boot+%7C+Go+%7C+Python;React+%2F+TypeScript+%2F+FastAPI+%2F+Node.js;Data+Analysis+%7C+Pandas+%7C+DuckDB)
 
 🚀 Software Engineer | Full-Stack Developer | Data Science & Analytics Learner | Fintech & EdTech Builder
 

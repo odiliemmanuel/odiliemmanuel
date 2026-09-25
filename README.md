@@ -2,9 +2,9 @@
 
 # Hi there 👋, I'm Emmanuel (Odili)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=650&lines=Software+Engineer;Backend+%7C+Frontend+%7C+DevOps+%7C+Data+Science;Java+%7C+Spring+Boot+%7C+Go+%7C+Python;React+%2F+TypeScript+%2F+FastAPI+%2F+Node.js;Data+Analysis+%7C+Pandas+%7C+DuckDB)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=650&lines=Software+Engineer;Backend+%7C+Frontend+%7C+DevOps+%7C+Data+Science;Java+%7C+Spring+Boot+%7C+Go+%7C+Python;React+%2F+TypeScript+%2F+FastAPI+%2F+Node.js;Data+Analysis+%7C+Pandas+%7C+DuckDB;Web3+%7C+Solidity+%7C+Agentic+AI)
 
-🚀 Software Engineer | Full-Stack Developer | Data Science & Analytics Learner | Fintech & EdTech Builder
+🚀 Software Engineer | Full-Stack Developer | Data Science & Analytics Learner | Fintech, EdTech & Web3 Builder
 
 💡 I build scalable systems end-to-end — backend, frontend, deployment, and the data that drives decisions
 🌍 Based in Lagos, Nigeria
@@ -18,10 +18,13 @@ I work across the full stack — from backend services and frontend interfaces t
 
 - 🔧 **Backend** – Java/Spring Boot, Go/Gin, Python (FastAPI, Django), Node.js/Express, Kafka
 - 🎨 **Frontend** – React, TypeScript, Flutter for mobile
+- ⛓️ **Web3** – Solidity, Hardhat/Foundry, Next.js/RainbowKit/Wagmi
 - ☁️ **DevOps** – Docker, AWS (EC2, MFA/IAM), CI/CD-ready deployments on Render & Vercel
 - 📊 **Data Science & Analytics** – pandas, DuckDB, exploratory data analysis, moving into ML workflows
-- 🔭 Currently building **LearnQuest AI** (AI-powered learning platform) and a **real-time fintech transaction monitor** (FastAPI + WebSockets + Paystack/Flutterwave)
-- 🎙️ Also developing a **voice-first banking app** (Flutter + FastAPI) for Nigerian users
+- 🔭 Currently building **LearnQuest AI** (AI-powered learning platform), **AegisKin** (a decentralized social recovery vault for crypto wallets), and a **real-time fintech transaction monitor** (FastAPI + WebSockets + Paystack/Flutterwave)
+- 🤖 Also building **MicroEval**, an agentic AI code & architecture auditor for the micro1 × HackerEarth "Agentic Workflows" Hackathon
+- 🎙️ Developing a **voice-first banking app** (Flutter + FastAPI) for Nigerian users, in active development with team **The Achievers**
+- 🌱 Active open-source contributor via the GrantFox campaign — Remitwise, Stableroute, Talenttrust & Liquifact frontends
 - 👯 Open to collaborating on impactful open-source projects and opportunities
 - 📚 Previously led a 17-engineer team on **EstateLink**, a real-estate microservices platform
 
@@ -30,7 +33,7 @@ I work across the full stack — from backend services and frontend interfaces t
 # 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Science+%26+Analytics;Building+with+Node.js+%2F+Express;Exploring+Apache+Kafka;Deploying+on+AWS+EC2;Flutter+for+Mobile+Apps;Studying+System+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Science+%26+Analytics;Building+with+Node.js+%2F+Express;Exploring+Apache+Kafka;Deploying+on+AWS+EC2;Flutter+for+Mobile+Apps;Studying+System+Design;Exploring+Web3+%26+Solidity" />
 </p>
 
 <div align="center">
@@ -42,6 +45,8 @@ I work across the full stack — from backend services and frontend interfaces t
 | AWS EC2 | Production deployments |
 | Apache Kafka | Event-Driven Architecture |
 | Flutter | Cross-platform mobile apps |
+| Web3 & Solidity | Smart contracts, AegisKin (Base Sepolia) |
+| Agentic AI Workflows | Multi-agent pipelines, MicroEval |
 
 </div>
 
@@ -77,6 +82,8 @@ I work across the full stack — from backend services and frontend interfaces t
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Paystack](https://img.shields.io/badge/Paystack-00C3F7?style=for-the-badge&logo=paystack&logoColor=white)
 ![Flutterwave](https://img.shields.io/badge/Flutterwave-F5A623?style=for-the-badge&logo=flutterwave&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
@@ -84,20 +91,25 @@ I work across the full stack — from backend services and frontend interfaces t
 ## 🚀 Featured Projects
 
 - 🔗 **LearnQuest AI** – AI-powered learning platform for Nigerian secondary school students (Go backend + Gemini API, React frontend, quiz engine & gamification)
+- 🔗 **AegisKin** – Decentralized social recovery vault for crypto wallets (guardian-based key recovery), built with Solidity/Hardhat & Next.js/RainbowKit/Wagmi, deployed to Base Sepolia testnet
+- 🔗 **MicroEval** – Agentic AI code & architecture auditor for the micro1 × HackerEarth "Agentic Workflows" Hackathon — GPT-4o multi-agent pipeline with AST parsing, sandboxed test execution, and agent-trace evaluation
 - 🔗 **EstateLink** – Real-estate microservices platform built with Java/Spring Boot & Kafka, led a 17-engineer team
 - 🔗 **FeeBridge** – School fee management system (Spring Boot + Nomba MFB integration), deployed on Render
 - 🔗 **Fintech Transaction Monitor** – Real-time transaction dashboard using FastAPI + WebSockets with Paystack/Flutterwave sandbox webhooks
-- 🔗 **Voice-First Banking App** – Flutter + FastAPI mobile app concept for Nigerian users, full PRD & use-case design
+- 🔗 **SplitPay** – Real-time group payments platform (Node.js/Express, Socket.IO, Paystack) with a full product README & vision doc
+- 🔗 **Voice-First Banking App** – Flutter + FastAPI mobile app for Nigerian users, in active development with team The Achievers
 - 🔗 **TaskFlow** – Trello/Jira-style project management API built with Node.js/Express
 - 🔗 **FoodDash** – Go/Gin food delivery backend with WebSocket live tracking, deployed on Render
+- 🔗 **EcoGrate** – Modular recycled-HDPE drainage grates to intercept plastic waste before it reaches Lagos's Ajegunle waterfront, built for the PROTEGO Blue Innovation Hackathon Nigeria
 - 🔗 **Data Analysis Projects** – Exploratory analysis on the UCI Student Performance dataset (pandas) and Brazilian Olist e-commerce dataset (DuckDB/MySQL)
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/odiliemmanuel
-- Portfolio: https://odilidev.vercel.app
+- GitHub (Personal): https://github.com/odiliemmanuel
+- GitHub (Open Source): https://github.com/odiliflash-ops
+- Portfolio: https://odiliejeh.vercel.app
 - LinkedIn: https://www.linkedin.com/in/kaodilichi-ejeh-66064238a
 - Email: kaodilichiejeh02@gmail.com
 

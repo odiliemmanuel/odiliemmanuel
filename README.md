@@ -95,12 +95,10 @@ I work across the full stack — from backend services and frontend interfaces t
 - 🔗 **MicroEval** – Agentic AI code & architecture auditor for the micro1 × HackerEarth "Agentic Workflows" Hackathon — GPT-4o multi-agent pipeline with AST parsing, sandboxed test execution, and agent-trace evaluation
 - 🔗 **EstateLink** – Real-estate microservices platform built with Java/Spring Boot & Kafka, led a 17-engineer team
 - 🔗 **FeeBridge** – School fee management system (Spring Boot + Nomba MFB integration), deployed on Render
-- 🔗 **Fintech Transaction Monitor** – Real-time transaction dashboard using FastAPI + WebSockets with Paystack/Flutterwave sandbox webhooks
 - 🔗 **SplitPay** – Real-time group payments platform (Node.js/Express, Socket.IO, Paystack) with a full product README & vision doc
 - 🔗 **Voice-First Banking App** – Flutter + FastAPI mobile app for Nigerian users, in active development with team The Achievers
 - 🔗 **TaskFlow** – Trello/Jira-style project management API built with Node.js/Express
 - 🔗 **FoodDash** – Go/Gin food delivery backend with WebSocket live tracking, deployed on Render
-- 🔗 **EcoGrate** – Modular recycled-HDPE drainage grates to intercept plastic waste before it reaches Lagos's Ajegunle waterfront, built for the PROTEGO Blue Innovation Hackathon Nigeria
 - 🔗 **Data Analysis Projects** – Exploratory analysis on the UCI Student Performance dataset (pandas) and Brazilian Olist e-commerce dataset (DuckDB/MySQL)
 
 ---
@@ -116,4 +114,4 @@ I work across the full stack — from backend services and frontend interfaces t
 ---
 
 ## ⚡ Fun Fact
-I enjoy building backend systems that look simple on the outside but are powerful, scalable, and production-ready under the hood. Also — Flash is the fastest, don't @ me. ⚡
+I enjoy building systems that look simple on the outside but are powerful, scalable, and production-ready under the hood. Also — Flash is the fastest, don't @ me. ⚡
